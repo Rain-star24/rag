@@ -1,0 +1,108 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# node
+node_modules/
+dist/
+
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+*.swp
+*.swo
+.trae
+*~
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+logs
+*.log
+data/
+media/
+
+# Database
+*.db
+*.sqlite3
+migrations/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Testing
+.coverage
+.coverage.*
+.cache
+test/
+
+# Misc
+*.pem
+
+# LangChain specific
+langchain-*/
+
+# ChromaDB
+chromadb/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.opencode/
+.omo/
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# Temporary files
+*.tmp
+*.temp
+
+# AI agent/Claude config
+.agents/
+.claude/
+skills-lock.json
+
+# CodeGraph index
+.codegraph/
+
+# Model weights (large files, downloaded via ModelScope/HuggingFace at runtime)
+/backend/models/
+
+# JetBrains IDE
+.idea/
+

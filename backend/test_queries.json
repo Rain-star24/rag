@@ -1,0 +1,102 @@
+{
+  "user_id": "f4ANVbjnhXNhHBWzV4ibMb",
+  "collection": "rag_collection",
+  "test_cases": [
+    {
+      "id": 1,
+      "type": "exact",
+      "question": "漏损诊断引擎使用了哪些分析模型？",
+      "answer_chunk_id": "0e9b5a30-97b7-4348-9d3f-77e34d44fa62"
+    },
+    {
+      "id": 2,
+      "type": "exact",
+      "question": "智能调度决策系统基于什么模型预测需水量？",
+      "answer_chunk_id": "0cb03aba-88d9-4658-9ff0-5e35a8008b87"
+    },
+    {
+      "id": 3,
+      "type": "exact",
+      "question": "平台每日处理多少条监测数据？",
+      "answer_chunk_id": "53f238a6-ba3f-4b7c-9f1e-4ebd7c3bd197"
+    },
+    {
+      "id": 4,
+      "type": "exact",
+      "question": "平台的数据采集频率是多少？",
+      "answer_chunk_id": "ac53b40b-6456-4c91-b2c5-de2228fff295"
+    },
+    {
+      "id": 5,
+      "type": "exact",
+      "question": "云侧用了什么数据库？",
+      "answer_chunk_id": "e594b464-68e2-44c4-8fda-7ec507c2e157"
+    },
+    {
+      "id": 6,
+      "type": "colloquial",
+      "question": "管道漏水了，系统是怎么发现的？",
+      "answer_chunk_id": "0e9b5a30-97b7-4348-9d3f-77e34d44fa62"
+    },
+    {
+      "id": 7,
+      "type": "colloquial",
+      "question": "半夜水管突然爆了会怎么样？",
+      "answer_chunk_id": "c74e0992-9968-4615-a6a8-19794ad5783a"
+    },
+    {
+      "id": 8,
+      "type": "colloquial",
+      "question": "水费突然变多了能收到提醒吗？",
+      "answer_chunk_id": "5c24111d-a8ec-4c13-8555-e9d5a61f9287"
+    },
+    {
+      "id": 9,
+      "type": "colloquial",
+      "question": "夏天太热了用水高峰怎么办？",
+      "answer_chunk_id": "42a67546-d66d-45f5-bfb2-ca80ad3c220f"
+    },
+    {
+      "id": 10,
+      "type": "paraphrase",
+      "question": "管网漏损率要控制在多少以下？",
+      "answer_chunk_id": "b8a46fe5-da77-48f3-97bb-74e327c59aac"
+    },
+    {
+      "id": 11,
+      "type": "paraphrase",
+      "question": "需水量预测的误差有多大？",
+      "answer_chunk_id": "0cb03aba-88d9-4658-9ff0-5e35a8008b87"
+    },
+    {
+      "id": 12,
+      "type": "paraphrase",
+      "question": "平台怎么保障数据传输安全？",
+      "answer_chunk_id": "53f238a6-ba3f-4b7c-9f1e-4ebd7c3bd197"
+    },
+    {
+      "id": 13,
+      "type": "paraphrase",
+      "question": "系统能预测多久以后的水量需求？",
+      "answer_chunk_id": "0cb03aba-88d9-4658-9ff0-5e35a8008b87"
+    },
+    {
+      "id": 14,
+      "type": "terminology",
+      "question": "什么是 MNF？",
+      "answer_chunk_id": "0e9b5a30-97b7-4348-9d3f-77e34d44fa62"
+    },
+    {
+      "id": 15,
+      "type": "terminology",
+      "question": "什么是 ABAC？",
+      "answer_chunk_id": "53f238a6-ba3f-4b7c-9f1e-4ebd7c3bd197"
+    },
+    {
+      "id": 16,
+      "type": "terminology",
+      "question": "DMA 分区边界是怎么优化的？",
+      "answer_chunk_id": "0e9b5a30-97b7-4348-9d3f-77e34d44fa62"
+    }
+  ]
+}
